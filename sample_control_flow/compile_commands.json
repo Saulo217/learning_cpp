@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/bin/clang++",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cc"
+    ],
+    "directory": "/home/saulo/.local/share/projects/cpp/learning_cpp/sample_control_flow",
+    "file": "/home/saulo/.local/share/projects/cpp/learning_cpp/sample_control_flow/main.cc",
+    "output": "/home/saulo/.local/share/projects/cpp/learning_cpp/sample_control_flow/main.o"
+  }
+]
